@@ -1,4 +1,5 @@
-🏡 Airbnb Property Management Optimization
+🏡 Airbnb Property Management Optimization:-
+
 This project focuses on analyzing Airbnb's dataset to optimize rental strategies, enhance customer satisfaction, and maximize revenue for property owners. Utilizing Tableau, we delve into various aspects of Airbnb listings to extract actionable insights.
 
 📊 Key Analyses
